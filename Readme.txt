@@ -30,4 +30,4 @@ Password: Test@123
 
 Glimpse of the project
 
-![Image](https://github.com/user-attachments/assets/e9ca262e-fd4f-4955-a071-beac68b8e145)
+![Image Alt](https://github.com/sidra-quadri/Student-Management-System/blob/2b4985bc422d4c870f074aeded2c5b7b702d8574/WhatsApp%20Image%202024-03-17%20at%2011.29.58%20PM%20(2).jpeg)
