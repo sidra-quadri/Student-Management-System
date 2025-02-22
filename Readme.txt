@@ -1,4 +1,4 @@
-How to run the Student Management System (StudentMS) Project
+<H1> How to run the Student Management System (StudentMS) Project </H1>
 
 1. Download the  zip file
 
