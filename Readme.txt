@@ -1,4 +1,4 @@
- ## How to run the Student Management System (StudentMS) Project 
+ How to run the Student Management System (StudentMS) Project 
 
 1. Download the  zip file
 
@@ -29,3 +29,5 @@ Password: Test@123
  Or Register a new Student/User.
 
 Glimpse of the project
+
+![Image](https://github.com/user-attachments/assets/e9ca262e-fd4f-4955-a071-beac68b8e145)
