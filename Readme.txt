@@ -1,4 +1,4 @@
-<H1> How to run the Student Management System (StudentMS) Project </H1>
+ ##How to run the Student Management System (StudentMS) Project 
 
 1. Download the  zip file
 
@@ -27,3 +27,5 @@ Username: anujk3
 Password: Test@123
 
  Or Register a new Student/User.
+
+Glimpse of the project
