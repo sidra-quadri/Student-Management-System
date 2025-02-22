@@ -18,4 +18,7 @@
 - Or Register a new Student/User.
 
 ### **Glimpse of the project**
-![Image Alt](https://raw.githubusercontent.com/sidra-quadri/Student-Management-System/2b4985bc422d4c870f074aeded2c5b7b702d8574/WhatsApp%20Image%202024-03-17%20at%2011.29.58%20PM%20(2).jpeg)
+![Image Alt](https://github.com/sidra-quadri/Student-Management-System/blob/eb4c4539a4d02c34db3c7227981f62b385c28c72/img1.jpeg) <br> 
+![Image Alt](https://github.com/sidra-quadri/Student-Management-System/blob/eb4c4539a4d02c34db3c7227981f62b385c28c72/img2.jpeg) <br>
+![Image Alt](https://github.com/sidra-quadri/Student-Management-System/blob/eb4c4539a4d02c34db3c7227981f62b385c28c72/img3.jpeg) <br>
+![Image Alt](https://github.com/sidra-quadri/Student-Management-System/blob/eb4c4539a4d02c34db3c7227981f62b385c28c72/img4.jpeg) <br>
